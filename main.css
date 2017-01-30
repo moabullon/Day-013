@@ -27,7 +27,7 @@ h2 {
   overflow: hidden;
 }
 
-p {font-family: 'Merriweather', serif;
+#p1 {font-family: 'Merriweather', serif;
 color: #4f4f52;
 text-align: center;
 font-size: 15px;
@@ -36,6 +36,66 @@ position: relative;
 z-index: 1;
 overflow: hidden;
 
+}
+
+#p2 {font-family: 'Merriweather', serif;
+color: #4f4f52;
+text-align: center;
+font-size: 15px;
+font-weight: normal;
+position: relative;
+z-index: 1;
+overflow: hidden;
+
+}
+
+#p3 {font-family: 'Merriweather', serif;
+color: #4f4f52;
+text-align: center;
+font-size: 15px;
+font-weight: normal;
+position: relative;
+z-index: 1;
+overflow: hidden;
+
+}
+
+#p4 {font-family: 'Merriweather', serif;
+color: #4f4f52;
+text-align: center;
+font-size: 15px;
+font-weight: normal;
+position: relative;
+z-index: 1;
+overflow: hidden;
+
+}
+
+#p5 {font-family: 'Merriweather', serif;
+color: #4f4f52;
+text-align: center;
+font-size: 15px;
+font-weight: normal;
+position: relative;
+z-index: 1;
+overflow: hidden;
+
+}
+
+#p6 {font-family: 'Merriweather', serif;
+color: #4f4f52;
+text-align: center;
+font-size: 15px;
+font-weight: normal;
+position: relative;
+z-index: 1;
+overflow: hidden;
+
+}
+
+li {
+  list-style: none;
+  line-height: 25px;
 }
 
 h2:before, h2:after {
